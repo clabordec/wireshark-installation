@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://github.com/user-attachments/assets/43d0f8dc-b4a1-4cf4-9d1a-5b4a92ff9ef3" alt="wireshark logo"/>
 </p>
 
 <h1>Wireshark Installation</h1>
