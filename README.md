@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/43d0f8dc-b4a1-4cf4-9d1a-5b4a92ff9ef3" alt="wireshark logo"/>
+<img src="https://github.com/user-attachments/assets/26dc69ed-6fd8-4223-bb8f-2db278683ab5" alt="wireshark logo"/>
 </p>
 
 <h1>Wireshark Installation</h1>
