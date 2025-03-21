@@ -5,11 +5,6 @@
 <h1>Wireshark Installation</h1>
 This project goes over the details on how to install wireshark.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [Project Walkthrough](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
