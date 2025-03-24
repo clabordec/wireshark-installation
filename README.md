@@ -104,8 +104,9 @@ This project goes over the details on how to install wireshark.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/06454474-ee01-423e-a5ce-2516876b8b1a" width="550" alt="Disk Sanitization Steps" />
 </p>
-<br />
 
 ---
+
+<br />
 
 # End of Project
