@@ -9,6 +9,7 @@ This project goes over the details on how to install wireshark.<br />
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
+- Wireshark
 
 <h2>Operating Systems Used </h2>
 
